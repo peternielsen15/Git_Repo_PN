@@ -8,3 +8,6 @@ Gonna learn some cool stuff!
 -git pull
 -git push
 -git clone
+
+## Kool Stuff
+- learninb branching
