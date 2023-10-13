@@ -1,3 +1,5 @@
 #Git Demo: Peter Nielsen
 
-Actually Learnign Git!
+Actually Learning Git!
+
+Gonna learn some cool stuff!
