@@ -1,6 +1,6 @@
 #Git Demo: Peter Nielsen
 
-Actually Learning Git!
+Actually Learning Git!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 Gonna learn some cool stuff!
 
@@ -8,3 +8,6 @@ Gonna learn some cool stuff!
 -git pull
 -git push
 -git clone
+
+## Kool Stuff
+- learninb branching
